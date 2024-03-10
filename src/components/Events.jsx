@@ -48,11 +48,11 @@ const Events = () => {
                     <img src={event5} alt="event 5" />
                 </div>
                 </Link>
-                <Link to={'/ideathon'}>
+                
                 <div className="event_card" data-aos="flip-left" >
                     <img src={event6} alt="event 6" />
                 </div>
-                </Link>
+                
             </div>
         </div>
     </section>
